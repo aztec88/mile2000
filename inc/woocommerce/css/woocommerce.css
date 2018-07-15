@@ -1061,7 +1061,7 @@ ul.digital-downloads li:before {
 }
 
 .demo_store {
-	position: fixed;
+	position: relative;
 	z-index: 99999;
 	right: 0;
 	bottom: 0;
@@ -1071,18 +1071,19 @@ ul.digital-downloads li:before {
 	color: #fff;
 	background-color: rgb(223, 18, 86);
 	text-align: center;
-	font-size: 16px;
+	font-size: 13px;
 }
 
 .demo_store:before {
 	margin-right: 0.53em;
 	font-family: ElegantIcons;
 	content: "\70";
-	font-size: 16px;
+	font-size: 14px;
 	text-align: center;
 }
 .woocommerce-store-notice__dismiss-link{
 	margin-left: 15px;
+	display: none;
 }
 
 .star-rating {
