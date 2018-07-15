@@ -341,7 +341,7 @@ ul.products li.product .button {
 	padding: 8px 37px;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	box-shadow: none;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 12px;
@@ -354,7 +354,7 @@ ul.products li.product .button {
 	border: black;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	box-shadow: none;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 13px;
@@ -374,7 +374,7 @@ ul.products li.product .product-button-wrap .button.product_type_simple,
 	opacity: 1;
 	color: #aaa;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed",sans-serif;
 	font-size: 12px;
 	line-height: 25px;
@@ -726,7 +726,7 @@ table.cart td.actions input {
 	border: 1px solid transparent;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	box-shadow: none;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 12px;
@@ -2067,10 +2067,10 @@ table.cart td.actions input {
 table.cart td.actions input[name="update_cart"] {
 	padding: 8px 37px;
 	border: 1px solid transparent;
-	border: rgba(102, 190, 62, 1);
+	border: #111;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 12px;
 	letter-spacing: 2px;
@@ -2079,7 +2079,7 @@ table.cart td.actions input[name="update_cart"] {
 }
 
 table.cart td.actions input[name="update_cart"]:hover {
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 }
 
 table.cart td.actions input[name="apply_coupon"] {
@@ -2249,7 +2249,7 @@ p.comment-form-rating {
 }
 
 #reviews form input[type="submit"]:hover {
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 }
 
 .wc-backward {
@@ -2265,7 +2265,7 @@ p.comment-form-rating {
 
 .wc-backward:hover {
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 }
 
 .shipping-calculator-form button {
@@ -2284,7 +2284,7 @@ p.comment-form-rating {
 }
 
 .shipping-calculator-form button:hover {
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 }
 
 .shipping-calculator-form input,
@@ -2773,7 +2773,7 @@ Search form Header
 @media(max-width:768px){
 	.header-search-input {
 		top: 80px;
-		background: rgba(102, 190, 62, 1);
+		background: #111;
 	}
 }
 
@@ -2926,7 +2926,7 @@ Single product page
 	border: none;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed",sans-serif;
 	font-size: 12px;
 	letter-spacing: 2px;
@@ -3307,7 +3307,7 @@ ul.products li.product .button.product_type_simple {
 	padding: 5px 37px;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 12px;
 	line-height: 25px;
@@ -3436,7 +3436,7 @@ ul.products li.product:hover img {
 	border-radius: 0;
 	border-radius: 2px;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 12px;
 	letter-spacing: 2px;
@@ -3479,7 +3479,7 @@ ul.products li.product .product-button-wrap .product_type_variable {
 	opacity: 1;
 	color: #aaa;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed",sans-serif;
 	font-size: 11px;
 	line-height: 25px;
@@ -3724,7 +3724,7 @@ Breacrumb
 	border-radius: 2px;
 	color: #fff;
 	color: #fff;
-	background: rgba(102, 190, 62, 1);
+	background: #111;
 	font-family: "Roboto Condensed", sans-serif;
 	font-size: 12px;
 	line-height: 13px;
@@ -4613,7 +4613,7 @@ h3#ship-to-different-address {
 		border: none;
 		border-radius: 2px;
 		color: #fff;
-		background: rgba(102, 190, 62, 1);
+		background: #111;
 		font-family: "Roboto Condensed", sans-serif;
 		font-size: 11px;
 		letter-spacing: 2px;
@@ -4706,7 +4706,7 @@ h3#ship-to-different-address {
 	}
 
 	.single-product div.product form.cart .button {
-		background: rgba(102, 190, 62, 1);
+		background: #111;
 		width: 100%;
 	}
 
