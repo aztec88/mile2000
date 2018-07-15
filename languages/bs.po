@@ -1,0 +1,1242 @@
+# Copyright (C) 2018 Themeisle
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: ShopIsle PRO 2.2.36\n"
+"Report-Msgid-Bugs-To: https://github.com/Codeinwp/shop-isle-pro/issues\n"
+"POT-Creation-Date: 2018-07-14 21:00+0200\n"
+"PO-Revision-Date: 2018-07-14 21:16+0200\n"
+"Last-Translator: \n"
+"Language-Team: Themeisle Translate <friends@themeisle.com>\n"
+"Language: bs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28 inc/customizer/features/feature-404-controls.php:39
+msgid "Error 404"
+msgstr "Greška 404"
+
+#: 404.php:45 inc/customizer/features/feature-404-controls.php:91
+msgid "Back to home page"
+msgstr "Nazad na početnu stranicu"
+
+#: archive.php:98 home.php:141
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:100
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:204
+#: inc/functions/setup.php:393 inc/functions/setup.php:400
+#: inc/functions/setup.php:407 inc/init.php:185
+#: inc/sections/shop_isle_slider_section.php:29
+#: inc/sections/shop_isle_slider_section.php:36
+#: inc/sections/shop_isle_slider_section.php:43 index.php:137
+msgid "Read more"
+msgstr "Detaljnije"
+
+#: archive.php:112 home.php:155 index.php:151
+msgid "<span class=\"meta-nav\">&laquo;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Stariji članci"
+
+#: archive.php:113 home.php:156 index.php:152
+msgid "Newer posts <span class=\"meta-nav\">&raquo;</span>"
+msgstr "Noviji članci <span class=\"meta-nav\">&rarr;</span>"
+
+#: class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr "Instalirajte potrebne dodatke"
+
+#: class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr "Instalirajte dodatke"
+
+#: class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalacija dodatka: %s"
+
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Ažuriranje plugina: %s"
+
+#: class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr "Nešto je pošlo na krivo s plugin API-jem."
+
+#: class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr "Povratak na instaler potrbnih dodataka"
+
+#: class-tgm-plugin-activation.php:384 class-tgm-plugin-activation.php:825
+#: class-tgm-plugin-activation.php:2546 class-tgm-plugin-activation.php:3595
+msgid "Return to the Dashboard"
+msgstr "Povratak na kontrolnu ploču"
+
+#: class-tgm-plugin-activation.php:385 class-tgm-plugin-activation.php:3172
+msgid "Plugin activated successfully."
+msgstr "Plagin je uspješno aktiviran."
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:2965
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nije potrebno ništa poduzimati. Dodatak %1$s je već aktivan."
+
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nije aktiviran. Za ovu temu potrebna je viša verzija %s. Molim vas, "
+"Ažurirajte plugin."
+
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Svi plugini su instalirani i aktivirani. %1$s"
+
+#: class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr "Zanemari ovu obavijest"
+
+#: class-tgm-plugin-activation.php:394
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Postoji jedna ili više potrebne ili preporučene čep uvesti koga u službu, "
+"ažurirati ili aktivirati."
+
+#: class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontaktirajte administratora za pomoć."
+
+#: class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Ovaj dodatak treba biti ažurirana biti kompatibilan sa svojim temama."
+
+#: class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Obavezna nadogradnja"
+
+#: class-tgm-plugin-activation.php:933
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Maknuti čep paket ne sadrži mapu s željeni cjevčica i preimenovanje nije "
+"radila."
+
+#: class-tgm-plugin-activation.php:933 class-tgm-plugin-activation.php:941
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Obratite se Davatelju čep i zamolite ih da paket njihov čep prema "
+"smjernicama WordPress."
+
+#: class-tgm-plugin-activation.php:941
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Maknuti čep paket se sastoji od više od jedne datoteke, ali datoteke nije "
+"pakirano u mapi."
+
+#: class-tgm-plugin-activation.php:1129 class-tgm-plugin-activation.php:2961
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#: class-tgm-plugin-activation.php:1995
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2286
+msgid "Required"
+msgstr "Obavezno"
+
+#: class-tgm-plugin-activation.php:2289
+msgid "Recommended"
+msgstr "Preporučeno"
+
+#: class-tgm-plugin-activation.php:2305
+msgid "WordPress Repository"
+msgstr "WordPress Repozitorij"
+
+#: class-tgm-plugin-activation.php:2308
+msgid "External Source"
+msgstr "Vanjski Izvor"
+
+#: class-tgm-plugin-activation.php:2311
+msgid "Pre-Packaged"
+msgstr "Prepakovano"
+
+#: class-tgm-plugin-activation.php:2328
+msgid "Not Installed"
+msgstr "Nije instaliran"
+
+#: class-tgm-plugin-activation.php:2332
+msgid "Installed But Not Activated"
+msgstr "Instaliran ali nije aktiviran"
+
+#: class-tgm-plugin-activation.php:2334
+msgid "Active"
+msgstr "Aktivan"
+
+#: class-tgm-plugin-activation.php:2340
+msgid "Required Update not Available"
+msgstr "Traženo ažuriranje nije dostupno"
+
+#: class-tgm-plugin-activation.php:2343
+msgid "Requires Update"
+msgstr "Zahtijeva ažuriranje"
+
+#: class-tgm-plugin-activation.php:2346
+msgid "Update recommended"
+msgstr "Preporučeno ažuriranje"
+
+#: class-tgm-plugin-activation.php:2355
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2401
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:2405
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:2409
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:2413
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: class-tgm-plugin-activation.php:2495
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nepoznat"
+
+#: class-tgm-plugin-activation.php:2503
+msgid "Installed version:"
+msgstr "Instalirana verzija:"
+
+#: class-tgm-plugin-activation.php:2511
+msgid "Minimum required version:"
+msgstr "Minimalna zahtijevana verzija:"
+
+#: class-tgm-plugin-activation.php:2523
+msgid "Available version:"
+msgstr "Dostupna verzija:"
+
+#: class-tgm-plugin-activation.php:2546
+msgid "No plugins to install, update or activate."
+msgstr "Nema plugina za instalirati ili aktivirati."
+
+#: class-tgm-plugin-activation.php:2560
+msgid "Plugin"
+msgstr "Plugin"
+
+#: class-tgm-plugin-activation.php:2561
+msgid "Source"
+msgstr "Izvor"
+
+#: class-tgm-plugin-activation.php:2562
+msgid "Type"
+msgstr "Tip"
+
+#: class-tgm-plugin-activation.php:2566
+msgid "Version"
+msgstr "Verzija"
+
+#: class-tgm-plugin-activation.php:2567
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2616
+#, php-format
+msgid "Install %2$s"
+msgstr "Instaliraj %2$s"
+
+#: class-tgm-plugin-activation.php:2621
+#, php-format
+msgid "Update %2$s"
+msgstr "Ažuriraj %2$s"
+
+#: class-tgm-plugin-activation.php:2627
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviraj %2$s"
+
+#: class-tgm-plugin-activation.php:2697
+msgid "Upgrade message from the plugin author:"
+msgstr "Nadogradnja poruke od priključni modul autora:"
+
+#: class-tgm-plugin-activation.php:2730
+msgid "Install"
+msgstr "Instaliraj"
+
+#: class-tgm-plugin-activation.php:2736
+msgid "Update"
+msgstr "Nadogradi"
+
+#: class-tgm-plugin-activation.php:2739
+msgid "Activate"
+msgstr "Aktivirati"
+
+#: class-tgm-plugin-activation.php:2770
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nijedan plugins nije izabran da bude instaliran. Ne poduzimam ništa."
+
+#: class-tgm-plugin-activation.php:2772
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nijedan plugins nije izabran da bude ažuriran. Ne poduzimam ništa."
+
+#: class-tgm-plugin-activation.php:2813
+msgid "No plugins are available to be installed at this time."
+msgstr "Trenutno nema pluginsa koji će biti instalirani."
+
+#: class-tgm-plugin-activation.php:2815
+msgid "No plugins are available to be updated at this time."
+msgstr "Nema pluginsa na raspolaganju da budu ažurirani u ovom trenutku."
+
+#: class-tgm-plugin-activation.php:2921
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nijedan plugins nije izabran da bude aktiviran. Ne poduzimam ništa."
+
+#: class-tgm-plugin-activation.php:2947
+msgid "No plugins are available to be activated at this time."
+msgstr "Nema pluginsa koji se trenutno mogu aktivirati."
+
+#: class-tgm-plugin-activation.php:3171
+msgid "Plugin activation failed."
+msgstr "Aktivacija plagina neuspješna."
+
+#: class-tgm-plugin-activation.php:3513
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3516
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Došlo je do greške prilikom instalacije %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3518
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacija  %1$s neuspješna."
+
+#: class-tgm-plugin-activation.php:3522
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proces instalacije počinje. Ovaj proces može potrajati duže, pa vas molimo "
+"za strpljenje."
+
+#: class-tgm-plugin-activation.php:3524
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instaliran i aktiviran uspješno."
+
+#: class-tgm-plugin-activation.php:3524 class-tgm-plugin-activation.php:3532
+msgid "Show Details"
+msgstr "Prikaži detalje"
+
+#: class-tgm-plugin-activation.php:3524 class-tgm-plugin-activation.php:3532
+msgid "Hide Details"
+msgstr "Sakrij detalje"
+
+#: class-tgm-plugin-activation.php:3525
+msgid "All installations and activations have been completed."
+msgstr "Sve instalacije i aktivacije su završene."
+
+#: class-tgm-plugin-activation.php:3527
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instaliranje i aktiviranje Plugina %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3530
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proces instalacije počinje. Ovaj proces može potrajati duže, pa vas molimo "
+"za strpljenje."
+
+#: class-tgm-plugin-activation.php:3532
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3533
+msgid "All installations have been completed."
+msgstr "Sve instalacije su završene."
+
+#: class-tgm-plugin-activation.php:3535
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacija Plugina %1$s (%2$d/%3$d)"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:45 comments.php:65
+msgid "Comment navigation"
+msgstr "Navigacija kometara"
+
+#: comments.php:46 comments.php:66
+msgid "&larr; Older Comments"
+msgstr "&larr; Stariji komentari"
+
+#: comments.php:47 comments.php:67
+msgid "Newer Comments &rarr;"
+msgstr "Noviji komentari &rarr;"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nema rezultata"
+
+#: content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Spremni da objavite prvi post?  <a href=\"%1$s\">Započnite ovdje</a>."
+
+#: content-none.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Nažalost ništa nije pronađeno za pojam koji ste tražili. Probajte opet s "
+"drugim riječima."
+
+#: content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Izgleda da ne možemo naći ono što Vas zanima. Probajte koristiti pretragu."
+
+#: header.php:41
+msgid "Loading..."
+msgstr "Ucitavanje ...."
+
+#: home.php:39 inc/customizer/features/feature-blog-header-controls.php:17
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/class/class-shop-isle-pro-palette.php:60
+#: inc/customizer/class/class-shop-isle-pro-palette.php:69
+msgid "Default"
+msgstr "Uobičajeno"
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:19
+msgid ""
+"To customize the Contact Page you need to first select the template "
+"\"Contact page\" for the page you want to use for this purpose. Then open "
+"that page in the browser and press \"Customize\" in the top bar."
+msgstr ""
+"Da biste prilagodili kontakt stranicu morate prvo odabrati \"kontakt stranicu"
+"\" za stranicu koju želite koristiti za tu svrhu. Zatim otvorite tu stranicu "
+"u pregledniku i pritisnite \"prilagođavanje\" u gornjem baru."
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:133
+#, php-format
+msgid "Need further informations? Check this %1$s"
+msgstr ""
+
+#: inc/customizer/class/class-shopisle-contact-page-instructions.php:21
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:136
+msgid "doc"
+msgstr "tip dok"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:88
+#: inc/functions/setup.php:391 inc/functions/setup.php:398
+#: inc/functions/setup.php:405 inc/sections/shop_isle_slider_section.php:27
+#: inc/sections/shop_isle_slider_section.php:34
+#: inc/sections/shop_isle_slider_section.php:41
+msgid "Shop Isle"
+msgstr "Shop Isle"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:90
+#: inc/customizer/functions.php:38
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:102
+#: inc/customizer/features/customizer-theme-info.php:47 inc/init.php:25
+msgid "Categories Section"
+msgstr "Odjeljak kategorija"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:103
+#: inc/customizer/features/customizer-theme-info.php:44
+msgid "Map Section"
+msgstr "Sekcija Mape"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:104
+msgid "Ribbon Section"
+msgstr "Odjeljak vrpce"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:105
+#: inc/customizer/features/customizer-theme-info.php:45
+msgid "Services Section"
+msgstr "Usluge sekcija"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:106
+msgid "Shortcodes Section"
+msgstr "Odjeljak za kratki kodovi"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:109
+#: inc/customizer/features/customizer-theme-info.php:21
+#: inc/customizer/features/customizer-theme-info.php:55
+#: inc/customizer/features/customizer-theme-info.php:77
+msgid "View PRO version"
+msgstr "Prikaži pro verziju"
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:124
+#, php-format
+msgid ""
+"To customize the Frontpage sections please create a page. After that, go to "
+"%1$s and select \"A static page\". Finally, for \"Front page\" choose the "
+"page you previously created."
+msgstr ""
+
+#: inc/customizer/customize-pro/class-shopisle-customizer-upsell.php:129
+msgid "Static Front Page"
+msgstr "Statička naslovna stranica"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:107
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:217
+msgid "Add new field"
+msgstr "Dodajte novo polje"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:310
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:318
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:414
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:422
+#: inc/customizer/features/feature-404-controls.php:46
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:73
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:53
+msgid "Title"
+msgstr "Naslov"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:326
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:431
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:90
+msgid "Subtitle"
+msgstr "Podnaslov"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:334
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:439
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:614
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:640
+#: inc/customizer/features/feature-404-controls.php:81
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:124
+msgid "Button link"
+msgstr "Link Dugmeta"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:447
+msgid "Button Label"
+msgstr "Labela Dugmeta"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:352
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:455
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:361
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:463
+msgid "Description"
+msgstr "Opis"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:385
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:474
+msgid "Delete field"
+msgstr "Izbriši polje"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:518
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Icon"
+msgstr "Ikona"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:524
+#, php-format
+msgid ""
+"Some icons may not be displayed here. You can see the list of icons %1$s"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:526
+msgid "here"
+msgstr "ovdje"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:559
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:579
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:55
+msgid "Image"
+msgstr "Slika"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:562
+msgid "Upload Image"
+msgstr "Upload slika"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:575
+msgid "Image type"
+msgstr "Vrsta slike"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "None"
+msgstr "Nijedan"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Social icons"
+msgstr "Socijane ikone"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:619
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:657
+msgid "Add icon"
+msgstr "Dodaj ikonu"
+
+#: inc/customizer/customizer.php:31
+msgid "Frontpage sections"
+msgstr "Odjeljenja fronta"
+
+#: inc/customizer/features/customizer-theme-info.php:40
+msgid "Enhanced Cart"
+msgstr "Poboljšana kolica"
+
+#: inc/customizer/features/customizer-theme-info.php:41
+msgid "Get full color schemes support for your site. "
+msgstr "Nabavi punu boju za svoj sajt "
+
+#: inc/customizer/features/customizer-theme-info.php:42
+msgid "Section Reordering"
+msgstr "Neuordnung von Abschnitten"
+
+#: inc/customizer/features/customizer-theme-info.php:43
+msgid "Add New Sections"
+msgstr "Dodajte nove sekcije"
+
+#: inc/customizer/features/customizer-theme-info.php:46
+msgid "Quick View functionality"
+msgstr "Brzi prikaz funkcionalnosti"
+
+#: inc/customizer/features/customizer-theme-info.php:48
+#: inc/customizer/functions.php:39
+msgid "Support"
+msgstr "Podrška"
+
+#: inc/customizer/features/customizer-theme-info.php:73
+msgid "Three New Color Schemes"
+msgstr "Drei neue Farbschemata"
+
+#: inc/customizer/features/feature-404-controls.php:28
+msgid "Background image"
+msgstr "Pozadinska slika"
+
+#: inc/customizer/features/feature-404-controls.php:56
+msgid ""
+"The requested URL was not found on this server.<br> That is all we know."
+msgstr "Traženi URL nije pronađen na ovom serveru. <br> to je sve što znamo."
+
+#: inc/customizer/features/feature-404-controls.php:64
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/customizer/features/feature-404-controls.php:98
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:107
+msgid "Button label"
+msgstr "Text der Schaltfläche"
+
+#: inc/customizer/features/feature-advanced-controls.php:18
+msgid "Advanced options"
+msgstr "Napredne opcije"
+
+#: inc/customizer/features/feature-advanced-controls.php:34
+msgid "Disable preloader?"
+msgstr "Onemogućiti preloader?"
+
+#: inc/customizer/features/feature-blog-header-controls.php:24
+msgid "Blog header title"
+msgstr "Naslov zaglavlja bloga"
+
+#: inc/customizer/features/feature-blog-header-controls.php:39
+msgid "Blog header subtitle"
+msgstr "Naslov zaglavlja na blogu"
+
+#: inc/customizer/features/feature-contact-controls.php:19
+#: inc/customizer/features/feature-contact-controls.php:70
+msgid "Contact page"
+msgstr "Kontaktna stranica"
+
+#: inc/customizer/features/feature-contact-controls.php:33
+msgid "Contact form shortcode"
+msgstr "Kontakt forma shotcode"
+
+#: inc/customizer/features/feature-contact-controls.php:36
+#, php-format
+msgid ""
+"Create a form, copy the shortcode generated and paste it here. We recommend "
+"%1$s but you can use any plugin you like."
+msgstr ""
+
+#: inc/customizer/features/feature-contact-controls.php:58
+msgid "Map shortcode"
+msgstr "Map shortcode"
+
+#: inc/customizer/features/feature-contact-controls.php:59
+msgid ""
+"To use this section please install <a href=\"https://wordpress.org/plugins/"
+"intergeo-maps/\">Intergeo Maps</a> plugin then use it to create a map and "
+"paste here the shortcode generated"
+msgstr ""
+"Da biste koristili ovaj odjeljak, molimo instalirajte < = \"https:-wordpres-"
+"d-plugins/intergeo maps/\" prevod i obrada: </a> priključni modul koristite "
+"ga da kreirate mapu i zalijepite ovdje"
+
+#: inc/customizer/features/feature-footer-controls.php:20
+msgid "Footer"
+msgstr "Futer"
+
+#: inc/customizer/features/feature-footer-controls.php:35
+msgid "Copyright"
+msgstr "Autorska prava"
+
+#: inc/customizer/features/feature-footer-controls.php:53
+msgid "Hide site info?"
+msgstr "Sakriti informacije o lokaciji?"
+
+#: inc/customizer/features/feature-footer-controls.php:70
+#: inc/customizer/features/feature-footer-controls.php:82
+msgid "Add new social"
+msgstr "Dodajte nove društvene"
+
+#: inc/customizer/features/feature-footer-controls.php:81
+msgid "Social"
+msgstr "Društveno"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:20
+#: inc/init.php:24
+msgid "Banners section"
+msgstr "Baner sekcija"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:37
+msgid "Hide banners section?"
+msgstr "Sakrij Baner sekciju?"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:52
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:72
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:91
+msgid "Section title"
+msgstr "Naslov sekcije"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:84
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:96
+msgid "Add new banner"
+msgstr "Dodaj novi Baner"
+
+#: inc/customizer/features/feature-frontpage-banners-section-controls.php:95
+msgid "Banner"
+msgstr "Baner sekcija"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:20
+msgid "Big title section"
+msgstr "Poglavlje velikog naslova"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:38
+msgid "Hide big title section?"
+msgstr "Sakriti veliki odjeljak?"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:83
+#: inc/functions/setup.php:392 inc/functions/setup.php:399
+#: inc/functions/setup.php:406 inc/sections/shop_isle_big_title_section.php:26
+#: inc/sections/shop_isle_slider_section.php:28
+#: inc/sections/shop_isle_slider_section.php:35
+#: inc/sections/shop_isle_slider_section.php:42
+msgid "WooCommerce Theme"
+msgstr "WooCommerce Theme"
+
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:117
+#: inc/customizer/features/feature-frontpage-big-title-section-controls.php:205
+msgid "#"
+msgstr "#"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:22
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:20
+#, php-format
+msgid "To use this section, you are required to first install the  %1$s plugin"
+msgstr ""
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:30
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:29
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:38
+msgid "Products section"
+msgstr "Odjeljak proizvoda"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:55
+msgid "Hide products section?"
+msgstr "Sakriti proizvode?"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:66
+#: inc/sections/shop_isle_products_section.php:24
+msgid "Latest products"
+msgstr "Najnoviji proizvodi"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:87
+msgid "WooCommerce shortcode"
+msgstr "WooCommerce shortcode"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:89
+msgid "Insert a WooCommerce shortcode"
+msgstr "Ubacite “woocommerce” short kodove"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:96
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:116
+msgid "Select category"
+msgstr "Odaberi kategoriju"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:125
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:146
+msgid "Products category"
+msgstr "Kategorija proizvoda"
+
+#: inc/customizer/features/feature-frontpage-products-section-controls.php:126
+msgid ""
+"OR pick a product category. If no shortcode or no category is selected , "
+"WooCommerce latest products are displaying."
+msgstr ""
+"Ili izaberi kategoriju proizvoda. Ako se ne odaberu neki manji broj ili "
+"nijedna kategorija, Woo, najnoviji proizvodi se prikazuju."
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:38
+msgid "Products slider section"
+msgstr "Odjeljak slajder proizvoda"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:56
+msgid "Hide products slider section on frontpage?"
+msgstr "Skrivanje proizvoda klizač za na naslovnoj strani?"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:74
+msgid "Hide products slider section on single product page?"
+msgstr "Sakrij dio za rezanje proizvoda na stranici pojedinačnog proizvoda?"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:85
+#: inc/sections/shop_isle_products_slider_section.php:21
+#: inc/woocommerce/functions.php:373
+msgid "Exclusive products"
+msgstr "Ekskluzivni proizvodi"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:102
+#: inc/woocommerce/functions.php:374
+msgid "Special category of products"
+msgstr "Specijalna kategorija proizvoda"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:108
+msgid "Section subtitle"
+msgstr "Odjeljak Prijevod"
+
+#: inc/customizer/features/feature-frontpage-products-slider-section-controls.php:150
+msgid ""
+"If no category is selected , WooCommerce products from the first category "
+"found are displaying."
+msgstr ""
+"Ako se nijedna kategorija ne bira, u prvoj kategoriji pronađena su se "
+"prikazivanja proizvoda iz prve kategorije."
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:20
+msgid "Video section"
+msgstr "Video odjeljak"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:37
+msgid "Hide video section?"
+msgstr "Sakrij video sekciju?"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:68
+msgid "Youtube link"
+msgstr "YouTube Link"
+
+#: inc/customizer/features/feature-frontpage-video-section-controls.php:84
+msgid "Video thumbnail"
+msgstr "Video sličica"
+
+#: inc/customizer/features/feature-header-controls.php:15
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/features/feature-slider-shortcode.php:23
+msgid "Slider shortcode"
+msgstr "Slider shortcode"
+
+#: inc/customizer/features/feature-slider-shortcode.php:24
+msgid ""
+"You can replace the homepage slider with any plugin you like, just copy the "
+"shortcode generated and paste it here."
+msgstr ""
+"Možete zamijeniti klizač za kućne stranice sa bilo kojom pluginom koju "
+"volite, samo Kopirajte generisani i zalijepite ga ovdje."
+
+#: inc/flag-wporg.php:34 inc/functions/setup.php:135
+msgid "Primary Menu"
+msgstr "Primarni meni"
+
+#: inc/frontpage-manager.php:29
+msgid "Keep the old static frontpage template?"
+msgstr "Zadržati stari statista na naslovnoj strani?"
+
+#: inc/functions/setup.php:212
+msgid "Sidebar"
+msgstr "Bočni panel"
+
+#: inc/functions/setup.php:223
+msgid "Footer area 1"
+msgstr "Footer area 1"
+
+#: inc/functions/setup.php:234
+msgid "Footer area 2"
+msgstr "Footer area 2"
+
+#: inc/functions/setup.php:245
+msgid "Footer area 3"
+msgstr "Footer area 3"
+
+#: inc/functions/setup.php:256
+msgid "Footer area 4"
+msgstr "Footer area 4"
+
+#: inc/functions/setup.php:267
+msgid "Sidebar Shop Page"
+msgstr "Stranica prodavnice"
+
+#: inc/functions/setup.php:563
+msgid "Ideas and concepts"
+msgstr "Ideje i koncepti"
+
+#: inc/functions/setup.php:564 inc/functions/setup.php:569
+#: inc/functions/setup.php:574 inc/functions/setup.php:579
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: inc/functions/setup.php:568
+msgid "Designs & interfaces"
+msgstr "Dizajni & interfejs"
+
+#: inc/functions/setup.php:573
+msgid "Highly customizable"
+msgstr "Veoma kastomizovan"
+
+#: inc/functions/setup.php:578
+msgid "Easy to use"
+msgstr "Lako koristiti"
+
+#: inc/init.php:134 inc/structure/header.php:136
+#: inc/woocommerce/template-tags.php:19
+msgid "View your shopping cart"
+msgstr "Pogledajte Korpu"
+
+#: inc/sections/shop_isle_big_title_section.php:39
+msgid "Welcome"
+msgstr "Dobrodošli"
+
+#: inc/sections/shop_isle_big_title_section.php:40
+msgid "Online-Shop"
+msgstr "Online-Prodavnica"
+
+#: inc/sections/shop_isle_big_title_section.php:41
+msgid "Shop now"
+msgstr "Započnite kupovinu"
+
+#: inc/sections/shop_isle_products_section.php:155
+#: inc/sections/shop_isle_products_section.php:285
+msgid "Quick View"
+msgstr "Brzi Pregled"
+
+#: inc/sections/shop_isle_products_section.php:186
+#: inc/sections/shop_isle_products_section.php:317
+#: inc/sections/shop_isle_products_slider_section.php:147
+#: inc/sections/shop_isle_products_slider_section.php:220
+#: inc/woocommerce/functions.php:710
+msgid "Out of Stock"
+msgstr "Nema na stanju"
+
+#: inc/sections/shop_isle_products_section.php:206
+#: inc/sections/shop_isle_products_section.php:208
+#: inc/sections/shop_isle_products_section.php:337
+#: inc/sections/shop_isle_products_section.php:339
+msgid "See all products"
+msgstr "Pogledajte sve proizvode"
+
+#: inc/sections/shop_isle_products_section.php:217
+msgid "No products found."
+msgstr "Nema pronađenih proizvoda."
+
+#: inc/sections/shop_isle_products_section.php:347
+msgid ""
+"For this section to work, you first need to install the WooCommerce plugin , "
+"create some products, and insert a WooCommerce shortocode or select a "
+"product category in Customize -> Frontpage sections -> Products section"
+msgstr ""
+"Da bi ovaj dio funkcionirali, prvo morate instalirati wooprivredne "
+"priključni modul, kreirati neke proizvode, i umetnuti vunu šifru ili "
+"odabrati kategoriju proizvoda u okviru"
+
+#: inc/sections/shop_isle_products_slider_section.php:23
+msgid ""
+"For this section to work, you first need to install the WooCommerce plugin , "
+"create some products, and select a product category in Customize -> "
+"Frontpage sections -> Products slider section"
+msgstr ""
+"Da bi ovaj dio funkcionirali, prvo trebate instalirati wooprivreda "
+"priključni modul, kreirati neke proizvode, i odabrati kategoriju proizvoda u "
+"prilagodi odjeljnim dijelovima sekcije"
+
+#: inc/structure/comments.php:45
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: inc/structure/comments.php:49
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka odobrenje."
+
+#: inc/structure/comments.php:76
+msgid "Edit"
+msgstr "Uredi"
+
+#: inc/structure/footer.php:94
+msgid "powered by"
+msgstr "omogućio  %s"
+
+#: inc/structure/header.php:96
+msgid "Toggle navigation"
+msgstr "Uključi navigaciju"
+
+#: inc/structure/header.php:127
+msgctxt "placeholder"
+msgid "Search Products&hellip;"
+msgstr "Pretraži Proizvode&hellip;"
+
+#: inc/structure/header.php:127
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suchen nach:"
+
+#: inc/structure/header.php:128
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: inc/structure/page.php:22 inc/structure/post.php:47
+msgid "Pages:"
+msgstr "Stranice:"
+
+#: inc/structure/post.php:40
+#, php-format
+msgid "Continue reading %s"
+msgstr "Nastavi čitanje %s"
+
+#: inc/structure/post.php:55
+msgid ", "
+msgstr ", "
+
+#: inc/structure/post.php:59
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagovi: %1$s"
+
+#: inc/structure/post.php:92
+msgid "Posts navigation"
+msgstr "Postovi  Navigacija"
+
+#: inc/structure/post.php:95
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Stariji članci"
+
+#: inc/structure/post.php:98
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Noviji članci <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/structure/post.php:127
+msgid "By "
+msgstr "Od "
+
+#: inc/structure/post.php:147
+msgid "No Comments"
+msgstr "Nema komentara"
+
+#: inc/structure/post.php:149
+msgid " Comments"
+msgstr " Komentari"
+
+#: inc/structure/post.php:151
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: inc/structure/post.php:165
+#, php-format
+msgid "View all posts in %s"
+msgstr "Pogledaj sve postove u %s"
+
+#: inc/structure/template-tags.php:28
+msgid "Product Categories"
+msgstr "Kategorije proizvoda"
+
+#: inc/structure/template-tags.php:63
+msgid "Recent Products"
+msgstr "Najnovije"
+
+#: inc/structure/template-tags.php:100
+msgid "Featured Products"
+msgstr "Istaknuti proizvodi"
+
+#: inc/structure/template-tags.php:135
+msgid "Top Rated Products"
+msgstr "Najbolje ocjenjeni proizvodi"
+
+#: inc/structure/template-tags.php:170
+msgid "On Sale"
+msgstr "Akcija"
+
+#: inc/woocommerce/template-tags.php:27
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Rezultati Pretrage za: %s"
